@@ -1,0 +1,35 @@
+{
+
+  "MotorBit.Ultrasonic_Car|block": "超声波返回（cm）",
+  "MotorBit.RGB_Car_Program|block": "车身七彩流水灯",
+  "MotorBit.RGB_Car_Big|block": "小车RGB探照灯|选择车灯颜色 %value",
+  "MotorBit.RGB_Car_Big2|block": "小车RGB探照灯|红色 %value1|绿色 %value2|蓝色 %value3",
+  "MotorBit.Music_Car|block": "小车音乐播放|%index",
+  "MotorBit.Voice_Sensor|block": "声音传感器返回",
+  "MotorBit.Line_Sensor|block": "巡线传感器|位置 %direct|检测到 %value",
+  "MotorBit.CarCtrl|block": "小车控制|%index",
+  "MotorBit.CarCtrlSpeed|block": "小车控制|%index|速度 %speed",
+  "MotorBit.CarCtrlSpeed2|block": "小车控制|%index|左电机速度 %speed1|右电机速度 %speed2",
+  "MotorBit.enColor.OFF|block": "灭",
+  "MotorBit.enColor.Red|block": "红色",
+  "MotorBit.enColor.Green|block": "绿色",
+  "MotorBit.enColor.Blue|block": "蓝色",
+  "MotorBit.enColor.White|block": "白色",
+  "MotorBit.enColor.Cyan|block": "青色",
+  "MotorBit.enColor.Pinkish|block": "品红",
+  "MotorBit.enColor.Yellow|block": "黄色",
+  
+  "MotorBit.enPos.LeftState|block": "左边",
+  "MotorBit.enPos.RightState|block": "右边",
+  "MotorBit.enLineState.White|block": "白线",
+  "MotorBit.enLineState.Black|block": "黑线",
+
+  
+  "MotorBit.CarState.Car_Run|block": "前进",
+  "MotorBit.CarState.Car_Back|block": "后退",
+  "MotorBit.CarState.Car_Left|block": "左转",
+  "MotorBit.CarState.Car_Right|block": "右转",
+  "MotorBit.CarState.Car_Stop|block": "停止",
+  "MotorBit.CarState.Car_SpinLeft|block": "原地左旋",
+  "MotorBit.CarState.Car_SpinRight|block": "原地右旋"
+}

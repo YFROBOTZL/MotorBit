@@ -1,0 +1,22 @@
+{
+    "name": "MotorBit",
+    "version": "0.0.0",
+    "description": "Extension for YFROBOT Motor:bit V0.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/MotorBit-strings.json",
+        "_locales/zh-tw/MotorBit-strings.json",
+        "_locales/fr/MotorBit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
